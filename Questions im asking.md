@@ -11,7 +11,10 @@ What is a distribute system
 how caan a distribute system be used
 why do we use distribute systems 
 
-Threads vs Async
+Threads vs Asyncio
+
+What is asyncio
+
 
 Concurrency benchmarks
 
