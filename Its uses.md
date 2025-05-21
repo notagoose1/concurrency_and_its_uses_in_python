@@ -1,5 +1,6 @@
 Why concurrency with threading is faster
-Improved I/O performance which allows programs to handle multiple I/O operations (like network requests or file access) simultaneously, preventing the program from being blocked while waiting for a response.
+Improved I/O performance which allows programs to handle multiple I/O operations (like network requests or file access) simultaneously, preventing the program from being blocked while waiting for a response. it is relatively simple to implement but can be less efficient for high concurrency due to context switching overhead.
+
 
 Concurrency helps utilize CPU cores more effectively by allowing multiple tasks to be run concurrently, even if they’re not strictly CPU-bound. 
 
