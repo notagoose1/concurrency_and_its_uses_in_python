@@ -22,3 +22,7 @@ Multi processing
   
 
 How dose everything relate
+
+
+
+**If your willing to answer questions start a discussion!**
