@@ -1,7 +1,7 @@
 Concurrency in computing and compsci
 
 Threading computers
-why do we used threads
+why do we use threads
 
 Wiki 
 
